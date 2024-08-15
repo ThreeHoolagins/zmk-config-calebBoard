@@ -1,0 +1,6 @@
+// WISHLIST
+// I want 
+// 1. Standard layer with shift layer, probably doesn't need done.
+// 2. A "code" layer with all the special characters
+// 3. A numpad layer, with maybe macros? Function keys aswell probably
+// 4. Arrow keys? Mouse move?
