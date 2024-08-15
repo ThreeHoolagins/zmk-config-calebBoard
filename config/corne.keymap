@@ -32,7 +32,7 @@
         
         &mt LEFT_SHIFT SPACE 
         &mo RAISE 
-        &kp ALT
+        &kp LALT
                         >;
                 };
                 lower_layer {
